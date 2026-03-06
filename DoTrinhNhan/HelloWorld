@@ -2,5 +2,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         // In dòng chữ Hello World ra màn hình
         System.out.println("Hello World");
+        System.out.println("Hello my name is Do Trinh Nhan");
     }
 }
