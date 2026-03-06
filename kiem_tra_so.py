@@ -7,4 +7,8 @@ so_nhap_vao = int(input("Vui lòng nhập vào một số nguyên: "))
 if so_nhap_vao % 2 == 0:
     print(f"=> Số {so_nhap_vao} là SỐ CHẴN.")
 else:
+<<<<<<< Updated upstream
     print(f"=> Số {so_nhap_vao} là SỐ LẺ.")
+=======
+    print(f"=> Số {so_nhap_vao} là SỐ LẺ.")
+>>>>>>> Stashed changes
