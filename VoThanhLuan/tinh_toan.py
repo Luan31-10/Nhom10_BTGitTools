@@ -1,4 +1,5 @@
 # File tính toán
+#Update 1
 def tinh_tong(a, b):
     return a + b
 
